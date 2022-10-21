@@ -1,0 +1,282 @@
+:root {
+	--bg-color: black;
+	--main-color: black;
+	--aside-color: beige;
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Verdana, sans-serif;
+
+}
+
+body {
+	background-color: black;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+section {
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+
+.wrapper {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	width: 1200px;
+	margin: auto;
+	background-color: black;
+	font-size: 25px;
+
+	min-height: 100vh;
+
+}
+
+h1,
+h2,
+h3 {
+	font-family: Georgia, serif;
+}
+
+
+header {
+	text-align: center;
+	color: rgb(0, 255, 234);
+	text-align: center;
+}
+
+.name h1 {
+	text-shadow: rgb(0, 247, 255) 1px 0 10px;
+	padding-bottom: 10px;
+
+}
+
+.name h1:hover {
+	color: rgb(255, 192, 252);
+
+}
+
+.name h2 {
+	text-shadow: rgb(0, 255, 234) 1px 0 10px;
+}
+
+.name h2:hover {
+	color: rgb(255, 192, 252);
+
+}
+
+img {
+	margin: 10px;
+	float: left;
+	width: 200px;
+	max-width: 100%;
+	height: auto;
+	border: 10px;
+
+}
+
+.name {
+	margin-left: 80px;
+
+
+}
+
+
+main {
+	color: aqua;
+	display: flex;
+	width: 100%;
+}
+
+.contacts {
+	display: flex;
+	justify-items: center;
+	margin: 50px;
+	text-align: center;
+	justify-content: space-between;
+	font-size: 25px;
+
+}
+
+
+.main {
+	width: 70%;
+
+}
+
+aside {
+	background-color: rgb(31, 31, 31);
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-self: stretch;
+	flex-basis: 30%;
+}
+
+#aboutme {
+	margin-top: 10px;
+	margin-bottom: 25px;
+	padding: 10px;
+
+}
+
+#codexample {
+	margin-bottom: 30px;
+	text-align: left;
+	background-color: beige;
+	color: black;
+	padding: 5px;
+}
+
+
+#languages {
+	margin: auto;
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-self: stretch;
+	flex-basis: 25%;
+
+}
+
+
+
+#hard_skills {
+
+	margin: auto;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-self: stretch;
+	flex-basis: 35%;
+
+}
+
+
+
+#soft {
+	padding-left: 25px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-self: stretch;
+	flex-basis: 20%;
+
+}
+
+
+.link a {
+	color: pink;
+	text-decoration: underline;
+}
+
+
+#education {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 10px;
+	font-size: 25px;
+}
+
+footer {
+	color: black;
+	display: flex;
+	text-align: center;
+	justify-content: space-between;
+	background-color: aquamarine;
+	font-size: 20px;
+
+}
+
+#experience {
+	margin-bottom: 50px;
+	font-size: 25px;
+}
+
+#gitlogo {
+	width: 50px;
+}
+
+
+.year {
+	width: 100px;
+	text-align: center;
+	font-size: 25px;
+	line-height: 37px;
+	font-weight: bold;
+}
+
+.github {
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+	width: 100px;
+	text-align: center;
+}
+
+.github a {
+	color: black;
+}
+
+.rsschool {
+	width: 120px;
+	margin-right: 20px;
+
+
+}
+
+@media screen and (max-width: 1200px) {
+	.wrapper {
+		width: 100%;
+	}
+
+	.main {
+		width: 60%;
+	}
+
+	aside {
+		width: 40%;
+	}
+}
+
+.gradient-button {
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	padding: 20px 30px;
+	margin: 10px 20px;
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background-image: linear-gradient(to right, #9EEFE1 0%, #30d3f0 51%, #e19eef 100%);
+	background-size: 200% auto;
+	box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+	transition: .5s;
+
+}
+
+.gradient-button:hover {
+	background-position: right center;
+}
+
+#contact {
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-self: stretch;
+	flex-basis: 20%;
+}
