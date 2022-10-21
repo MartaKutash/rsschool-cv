@@ -28,6 +28,13 @@ I am working in the sphere of tourism and started learning programming a few mon
 - Phyton Basics (basic knowledge)
 - OOP Basics (basic knowledge)
 
+# **Education and Courses** #
+
++ HTML, CSS Basics on BeOnMax and [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
++ Git and GitHub Courses on [codecademy](https://www.codecademy.com/resources/docs/git)
++ JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (not completed)
++ Phyton Video Courses on Youtube
++ OOP by Artem Egorov on Stepik (in progress)
 
 
 # **Code Examples** #
@@ -52,18 +59,7 @@ Unfortunately, I don't have any experience in programming yet, but I am willing 
 
 
 
-# **Education and Courses** #
-
-+ HTML, CSS Basics on BeOnMax and [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
-+ Git and GitHub Courses on [codecademy](https://www.codecademy.com/resources/docs/git)
-+ JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (not completed)
-+ Phyton Video Courses on Youtube
-+ OOP by Artem Egorov on Stepik(in progress)
-
-
-
 # **Languages** #
-
-- English Upper-Intermediate
-- Turkish Advanced
-- Russian Native Speaker
++ English: Upper-Intermediate 
++ Turkish: Advanced 
++ Russian: Native Speaker  
