@@ -57,7 +57,8 @@ Unfortunately, I don't have any experience in programming yet, but I am willing 
 + HTML, CSS Basics on BeOnMax and [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
 + Git and GitHub Courses on [codecademy](https://www.codecademy.com/resources/docs/git)
 + JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (not completed)
-+ Phyton Course be Artem egorov on Youtube
++ Phyton Video Courses on Youtube
++ OOP by Artem Egorov on Stepik(in progress)
 
 
 
