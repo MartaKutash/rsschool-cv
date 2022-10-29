@@ -1,1 +1,1 @@
-https://MartaKutash.github.io/rsschool-cv/
+https://Martakutash.github.io/rsschool-cv/
